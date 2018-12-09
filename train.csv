@@ -1,0 +1,353 @@
+earthling_country,total_reviews,hotel_reviews,helpful_votes,period_of_stay,earthling_type,swimming_pool,exercise_room,basketball_court,yoga_classes,club,free_wifi,hotel_name,hotel_stars,number_of_rooms,earthling_continent,mars_membership_years,review_month,review_weekday,score
+Canada,31,8,27,Mar-May,Couples,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,North America,2,March,Tuesday,3
+India,31,8,11,Sep-Nov,Solo,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Asia,1,November,Sunday,4
+UK,6,0,4,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,Europe,1,November,Sunday,4
+Canada,8,8,9,Sep-Nov,Families,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,North America,4,September,Wednesday,1
+USA,9,8,1,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Mars forever,4,826,North America,6,July,Monday,5
+USA,8,3,3,Dec-Feb,Couples,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,3,January,Thursday,5
+UK,14,7,14,Mar-May,Friends,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,Europe,6,February,Friday,4
+Australia,106,37,58,Mar-May,Business,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,Oceania,3,April,Wednesday,4
+USA,93,4,8,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,North America,2,September,Saturday,5
+UK,10,5,4,Jun-Aug,Families,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,Europe,1,July,Friday,4
+New Zeland,8,7,3,Jun-Aug,Friends,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Oceania,1,August,Saturday,5
+Australia,275,79,339,Mar-May,Couples,YES,YES,NO,NO,YES,YES,Junky Jack Mars,"3,5",732,Oceania,7,May,Sunday,4
+USA,46,12,87,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,North America,3,January,Tuesday,5
+Ireland,8,7,9,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,Europe,8,March,Wednesday,5
+Canada,26,7,22,Dec-Feb,Couples,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,4,December,Wednesday,4
+USA,48,8,25,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,6,November,Monday,4
+Canada,30,12,17,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,North America,8,February,Friday,5
+USA,2,1,4,Mar-May,Families,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,North America,0,April,Tuesday,4
+Canada,19,3,12,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,1,January,Wednesday,5
+UK,13,10,16,Jun-Aug,Solo,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Europe,10,July,Wednesday,4
+Kenya,6,3,7,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,Africa,1,July,Thursday,4
+Australia,3,3,0,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,4th planet,5,2959,Oceania,7,July,Tuesday,4
+Egypt,85,37,65,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,Africa,4,August,Friday,5
+UK,10,6,11,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Europe,4,December,Saturday,5
+UK,22,6,6,Sep-Nov,Friends,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Europe,1,October,Tuesday,5
+Canada,66,33,60,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,North America,10,April,Saturday,5
+USA,164,48,82,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,North America,4,January,Saturday,5
+USA,35,12,3,Mar-May,Business,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,North America,2,May,Friday,5
+Australia,16,9,14,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,4th planet,5,2959,Oceania,3,January,Thursday,4
+USA,20,17,21,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Mars forever,4,826,North America,4,May,Sunday,3
+USA,20,9,25,Dec-Feb,Couples,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,8,December,Tuesday,4
+Canada,38,12,17,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,7,October,Friday,5
+USA,32,11,14,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,North America,3,July,Sunday,5
+USA,49,8,23,Mar-May,Couples,YES,YES,NO,YES,YES,YES,MnM,5,1282,North America,5,March,Monday,5
+USA,62,13,31,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Hotel Mars Rover,5,3933,North America,2,September,Tuesday,4
+Australia,6,6,9,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,Oceania,0,November,Sunday,3
+USA,11,8,12,Mar-May,Friends,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,6,May,Sunday,3
+USA,13,3,3,Sep-Nov,Couples,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,North America,1,October,Sunday,2
+USA,65,24,72,Dec-Feb,Business,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,6,January,Monday,3
+Mexico,28,23,31,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,North America,4,January,Friday,3
+USA,63,16,59,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Mars forever,4,826,North America,11,September,Wednesday,3
+Australia,26,7,9,Sep-Nov,Families,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,Oceania,0,October,Friday,4
+Hawaii,9,7,4,Mar-May,Couples,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,2,March,Tuesday,5
+USA,5,3,9,Dec-Feb,Families,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,North America,4,January,Tuesday,5
+USA,59,9,21,Mar-May,Couples,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,3,May,Monday,5
+UK,18,6,17,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Europe,1,July,Monday,4
+USA,15,3,13,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Hotel Mars Rover,5,3933,North America,5,January,Thursday,5
+Australia,12,6,3,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,4th planet,5,2959,Oceania,1,January,Thursday,5
+Thailand,4,3,1,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Nasty And Naughty,4,2884,Asia,7,November,Friday,5
+Germany,113,15,55,Mar-May,Families,YES,YES,NO,YES,YES,YES,4th planet,5,2959,Europe,8,May,Thursday,5
+United Arab Emirates,16,7,6,Mar-May,Couples,YES,YES,NO,YES,YES,YES,MnM,5,1282,Asia,7,April,Monday,4
+USA,20,6,9,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,North America,0,January,Wednesday,5
+Canada,6,5,5,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Nasty And Naughty,4,2884,North America,2,June,Tuesday,4
+USA,235,111,267,Mar-May,Friends,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,9,May,Friday,5
+USA,50,19,45,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,4th planet,5,2959,North America,0,November,Friday,5
+UK,18,4,16,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,4th planet,5,2959,Europe,0,October,Friday,5
+USA,11,7,10,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,North America,1,April,Monday,4
+USA,78,17,24,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,MnM,5,1282,North America,5,August,Monday,5
+Canada,19,12,167,Dec-Feb,Friends,YES,YES,YES,YES,YES,YES,Nasty And Naughty,4,2884,North America,9,February,Monday,4
+USA,42,11,36,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,North America,7,December,Monday,5
+India,4,4,1,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Hotel Mars Rover,5,3933,Asia,1,December,Monday,4
+USA,4,0,16,Jun-Aug,Friends,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,0,July,Thursday,1
+UK,12,3,3,Dec-Feb,Families,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Europe,4,December,Thursday,5
+India,13,7,8,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,Asia,5,November,Sunday,5
+UK,10,0,9,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,Europe,1,July,Wednesday,5
+USA,15,3,4,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Mars forever,4,826,North America,7,January,Tuesday,3
+USA,167,71,119,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,8,November,Sunday,4
+Ireland,76,27,32,Sep-Nov,Couples,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,Europe,6,October,Thursday,3
+Canada,136,20,55,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,MnM,5,1282,North America,3,July,Sunday,5
+USA,148,33,55,Sep-Nov,Business,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,3,November,Wednesday,4
+Australia,35,16,17,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,MnM,5,1282,Oceania,2,November,Tuesday,4
+USA,30,9,17,Mar-May,Business,YES,YES,NO,YES,YES,YES,Hotel Mars Rover,5,3933,North America,0,March,Tuesday,2
+Canada,18,3,10,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,2,October,Monday,2
+USA,70,27,24,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,North America,6,July,Friday,4
+USA,20,13,16,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,North America,6,March,Friday,5
+USA,39,12,16,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,North America,2,October,Thursday,5
+Canada,113,48,33,Mar-May,Families,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,4,April,Sunday,3
+Canada,14,0,4,Mar-May,Families,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,4,April,Tuesday,2
+USA,11,10,6,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,North America,7,December,Tuesday,5
+USA,290,263,300,Sep-Nov,Business,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,10,September,Saturday,4
+Canada,13,9,15,Jun-Aug,Friends,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,North America,1,June,Monday,4
+Australia,15,4,6,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Oceania,0,August,Friday,5
+USA,78,11,30,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Nasty And Naughty,4,2884,North America,2,September,Tuesday,4
+UK,127,40,81,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,Europe,8,February,Thursday,4
+UK,45,12,46,Mar-May,Couples,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,Europe,4,April,Friday,4
+USA,14,3,7,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,7,January,Saturday,4
+USA,27,15,17,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,6,June,Tuesday,3
+USA,5,4,3,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,8,March,Sunday,5
+Canada,41,10,56,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,4th planet,5,2959,North America,4,August,Saturday,5
+Ireland,23,7,21,Mar-May,Friends,YES,YES,NO,YES,YES,YES,4th planet,5,2959,Europe,7,April,Thursday,4
+UK,57,20,71,Mar-May,Business,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,Europe,0,May,Friday,5
+UK,6,3,14,Jun-Aug,Families,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,Europe,3,July,Sunday,5
+UK,52,48,78,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,Europe,8,September,Saturday,3
+Germany,118,107,131,Mar-May,Business,YES,YES,NO,NO,YES,YES,Junky Jack Mars,"3,5",732,Europe,10,March,Monday,5
+USA,102,24,58,Jun-Aug,Families,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,North America,9,June,Friday,2
+Mexico,3,3,3,Dec-Feb,Families,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,2,December,Wednesday,5
+India ,88,15,103,Mar-May,Business,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Asia,3,April,Monday,4
+Germany,10,0,5,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Nasty And Naughty,4,2884,Europe,3,May,Sunday,4
+USA,290,263,299,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,North America,10,August,Monday,4
+UK,95,37,55,Mar-May,Friends,YES,YES,NO,NO,YES,YES,Junky Jack Mars,"3,5",732,Europe,6,March,Tuesday,4
+USA,7,3,8,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,4th planet,5,2959,North America,5,December,Sunday,5
+Canada,13,6,13,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,2,September,Tuesday,5
+USA,9,3,4,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,North America,1,June,Monday,5
+Japan,23,9,23,Sep-Nov,Families,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,Asia,4,November,Monday,3
+USA,125,35,48,Mar-May,Business,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,North America,4,April,Sunday,5
+Canada,56,18,24,Sep-Nov,Friends,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,4,September,Saturday,5
+Switzerland,36,9,15,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,4th planet,5,2959,Europe,2,February,Saturday,4
+India,23,12,7,Jun-Aug,Families,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,Asia,7,June,Saturday,5
+UK,127,40,80,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,4th planet,5,2959,Europe,8,February,Wednesday,5
+Italy,189,72,129,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,Mars forever,4,826,Europe,3,February,Friday,4
+USA,50,39,48,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,North America,10,January,Thursday,2
+Canada,14,3,12,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,North America,2,February,Thursday,5
+Australia,32,12,22,Jun-Aug,Couples,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,Oceania,5,June,Wednesday,4
+UK,34,17,30,Dec-Feb,Families,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Europe,8,January,Sunday,4
+USA,48,21,67,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,North America,13,December,Sunday,4
+USA,53,25,24,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,MnM,5,1282,North America,3,December,Sunday,5
+USA,34,8,26,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,North America,4,June,Tuesday,4
+USA,12,6,1,Dec-Feb,Friends,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,North America,2,January,Sunday,5
+Australia,27,15,16,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,Oceania,5,September,Sunday,5
+Puerto Rico,153,38,81,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,North America,10,February,Tuesday,5
+USA,91,16,26,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,North America,3,August,Wednesday,4
+USA,73,27,365,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,North America,6,June,Wednesday,5
+Canada,3,0,1,Mar-May,Couples,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,1,April,Tuesday,5
+USA,9,5,11,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,North America,9,October,Wednesday,4
+Canada,19,8,24,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,North America,10,August,Wednesday,5
+USA,13,4,6,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,0,September,Wednesday,5
+USA,78,17,24,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,North America,5,August,Monday,4
+USA,41,8,14,Jun-Aug,Families,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,North America,4,August,Wednesday,3
+USA,169,25,41,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,North America,8,December,Tuesday,5
+USA,15,10,29,Mar-May,Families,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,North America,9,March,Friday,3
+Canada,112,34,41,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,North America,7,September,Sunday,5
+USA,1,0,1,Mar-May,Couples,YES,YES,NO,YES,YES,YES,MnM,5,1282,North America,0,April,Wednesday,5
+UK,13,7,12,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,Europe,5,July,Sunday,4
+USA,1,0,2,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,MnM,5,1282,North America,0,February,Tuesday,5
+UK,63,27,35,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,Europe,5,May,Wednesday,4
+UK,21,6,15,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,Europe,3,August,Saturday,5
+Canada,7,4,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,North America,1,February,Friday,5
+USA,38,13,11,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,Mars forever,4,826,North America,5,June,Sunday,3
+USA,54,10,15,Mar-May,Business,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,North America,5,May,Tuesday,4
+Canada,123,26,63,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,4,December,Saturday,5
+USA,28,6,9,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,3,November,Tuesday,3
+Brazil,37,31,38,Mar-May,Families,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,South America,9,May,Friday,5
+Canada,2,1,1,Mar-May,Families,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,3,May,Tuesday,3
+Brazil,11,5,9,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,South America,7,April,Monday,5
+Canada,27,0,9,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,North America,0,September,Tuesday,1
+USA,28,20,14,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,North America,8,June,Friday,3
+USA,7,5,6,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,North America,1,June,Monday,5
+USA,26,17,34,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,7,March,Thursday,5
+Kuwait,47,23,20,Sep-Nov,Couples,YES,YES,NO,NO,YES,YES,Junky Jack Mars,"3,5",732,Asia,1,November,Thursday,4
+USA,14,7,13,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Mars forever,4,826,North America,4,March,Thursday,5
+UK,61,13,26,Dec-Feb,Couples,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,Europe,4,February,Sunday,2
+Egypt,2,0,15,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,MnM,5,1282,Africa,1,September,Monday,1
+USA,73,7,26,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,3,August,Thursday,5
+Egypt,9,7,7,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,4th planet,5,2959,Africa,5,November,Wednesday,5
+USA,4,3,4,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,North America,3,September,Monday,5
+USA,21,5,12,Mar-May,Business,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,North America,8,March,Monday,4
+USA,131,61,116,Sep-Nov,Families,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,8,October,Thursday,3
+UK,24,18,12,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,MnM,5,1282,Europe,0,September,Thursday,5
+USA,5,3,11,Sep-Nov,Friends,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,North America,1,October,Thursday,2
+USA,50,14,24,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,North America,7,January,Wednesday,5
+USA,11,3,19,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,6,August,Monday,4
+Singapore,19,11,17,Mar-May,Families,YES,YES,NO,YES,YES,YES,MnM,5,1282,Asia,7,May,Friday,4
+USA,182,24,47,Sep-Nov,Families,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,North America,2,November,Sunday,4
+India,44,35,53,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Hotel Mars Rover,5,3933,Asia,6,March,Tuesday,5
+USA,46,4,21,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,North America,2,April,Saturday,4
+USA,5,5,14,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,North America,5,November,Sunday,5
+Israel,116,78,206,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,Asia,9,April,Sunday,5
+Australia,79,78,105,Jun-Aug,Friends,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Oceania,7,June,Wednesday,4
+Canada,45,6,22,Jun-Aug,Couples,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,3,July,Thursday,5
+USA,31,11,24,Jun-Aug,Couples,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,2,June,Wednesday,5
+UK,59,56,37,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,Europe,6,July,Tuesday,3
+Canada,12,4,6,Jun-Aug,Couples,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,North America,2,August,Monday,5
+USA,35,8,19,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,North America,6,November,Sunday,4
+USA,9,5,4,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,6,May,Thursday,5
+Ireland,19,17,16,Sep-Nov,Couples,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,Europe,5,September,Wednesday,4
+UK,34,10,7,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,Europe,4,October,Thursday,4
+Malaysia,43,14,27,Jun-Aug,Solo,YES,YES,YES,YES,YES,YES,Nasty And Naughty,4,2884,Asia,5,July,Thursday,4
+USA,26,6,12,Dec-Feb,Families,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,1,February,Sunday,5
+Canada,9,3,15,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,North America,1,October,Wednesday,5
+USA,60,11,33,Dec-Feb,Couples,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,North America,3,February,Thursday,5
+USA,19,8,56,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,4th planet,5,2959,North America,10,August,Sunday,4
+USA,7,6,9,Jun-Aug,Friends,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,North America,1,July,Wednesday,2
+Finland,20,7,4,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,Europe,6,June,Saturday,3
+USA,26,10,28,Mar-May,Solo,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,North America,1,March,Wednesday,5
+Canada,4,0,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,North America,9,February,Friday,5
+USA,23,7,2,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,North America,3,December,Friday,4
+Australia,83,10,26,Mar-May,Families,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,Oceania,1,May,Tuesday,4
+UK,56,11,14,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,Europe,5,September,Friday,5
+USA,775,52,255,Mar-May,Couples,YES,YES,NO,YES,YES,YES,MnM,5,1282,North America,2,March,Wednesday,3
+Canada,21,16,48,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Nasty And Naughty,4,2884,North America,12,December,Thursday,5
+USA,73,13,22,Dec-Feb,Couples,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,North America,2,February,Tuesday,4
+Saudi Arabia,320,45,102,Dec-Feb,Business,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,Asia,6,January,Tuesday,3
+USA,23,23,11,Jun-Aug,Families,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,1,August,Sunday,5
+USA,13,7,1,Sep-Nov,Business,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,4,November,Sunday,5
+USA,42,8,22,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,North America,6,June,Monday,4
+Canada,20,5,59,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,North America,8,September,Saturday,3
+Spain,3,0,8,Mar-May,Families,YES,YES,NO,YES,YES,YES,Hotel Mars Rover,5,3933,Europe,3,April,Tuesday,2
+Canada,69,22,38,Mar-May,Families,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,North America,6,April,Thursday,5
+Canada,67,46,99,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,North America,6,August,Sunday,5
+USA,12,5,1,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,North America,5,October,Friday,5
+Netherlands,184,52,70,Jun-Aug,Couples,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,Europe,3,August,Wednesday,5
+Australia,22,13,26,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,Oceania,2,April,Friday,4
+Canada,5,5,2,Mar-May,Solo,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,North America,7,March,Tuesday,4
+USA,69,11,17,Sep-Nov,Couples,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,0,September,Sunday,5
+UK,26,18,43,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Hotel Mars Rover,5,3933,Europe,4,November,Monday,5
+Canada,13,3,8,Mar-May,Business,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,North America,3,March,Wednesday,4
+USA,38,18,16,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,MnM,5,1282,North America,8,June,Sunday,5
+USA,6,6,12,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,North America,10,December,Wednesday,4
+UK,2,18,14,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,Europe,8,November,Wednesday,5
+UK,29,7,15,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,Europe,7,September,Thursday,5
+USA,37,8,9,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,North America,3,February,Tuesday,4
+Phillippines,79,39,51,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Asia,5,February,Wednesday,3
+UK,60,7,42,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,Europe,8,March,Tuesday,5
+USA,16,13,55,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,North America,9,December,Tuesday,5
+New Zeland,9,6,19,Jun-Aug,Couples,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,Oceania,7,July,Wednesday,3
+Syria,34,8,30,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,Asia,4,December,Tuesday,3
+Canada,56,8,7,Mar-May,Solo,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,North America,1,May,Tuesday,3
+USA,15,5,12,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,North America,4,February,Sunday,5
+Israel,62,40,25,Jun-Aug,Families,YES,YES,NO,NO,YES,YES,Junky Jack Mars,"3,5",732,Asia,5,August,Sunday,5
+Singapore,16,10,16,Mar-May,Solo,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,Asia,7,May,Monday,3
+UK,26,22,42,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Hotel Mars Rover,5,3933,Europe,5,October,Sunday,5
+UK,87,18,36,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,Europe,3,February,Thursday,3
+Australia,26,5,5,Mar-May,Families,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,Oceania,1,May,Thursday,4
+Iran,3,3,2,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,MnM,5,1282,Asia,4,August,Sunday,4
+Canada,49,22,53,Sep-Nov,Couples,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,5,November,Sunday,3
+USA,4,3,2,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,North America,6,January,Friday,5
+USA,103,5,98,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,4th planet,5,2959,North America,7,October,Monday,5
+Switzerland,9,6,3,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,Europe,5,November,Saturday,5
+USA,14,6,7,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,North America,11,October,Sunday,5
+Swiss,36,19,36,Jun-Aug,Solo,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,Europe,5,August,Thursday,2
+Canada,54,18,31,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,North America,5,August,Wednesday,4
+UK,15,6,39,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,Europe,4,May,Sunday,1
+Canada,20,13,17,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Mars forever,4,826,North America,4,January,Monday,4
+India,24,3,8,Mar-May,Friends,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,Asia,3,May,Saturday,4
+Taiwan,20,12,7,Jun-Aug,Families,YES,YES,NO,NO,YES,YES,Junky Jack Mars,"3,5",732,Asia,1,August,Wednesday,5
+Costa Rica,130,19,49,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,6,June,Sunday,3
+United Arab Emirates,156,126,142,Sep-Nov,Friends,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,Asia,8,September,Friday,3
+Finland,39,18,9,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,Europe,4,July,Thursday,4
+UK,3,3,0,Jun-Aug,Friends,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,Europe,1,August,Sunday,3
+USA,6,4,14,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,4th planet,5,2959,North America,1,July,Wednesday,1
+Jordan,29,8,21,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,Europe,2,September,Wednesday,3
+India,116,44,53,Sep-Nov,Couples,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,Asia,5,October,Saturday,4
+Canada,73,4,39,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,3,April,Monday,3
+USA,289,28,133,Dec-Feb,Families,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,North America,5,December,Tuesday,4
+UK,21,7,13,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,MnM,5,1282,Europe,10,January,Tuesday,5
+USA,333,58,200,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,North America,4,August,Sunday,5
+Ireland,23,10,18,Mar-May,Business,YES,YES,NO,YES,YES,YES,Hotel Mars Rover,5,3933,Europe,4,April,Monday,5
+USA,30,6,26,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Hotel Mars Rover,5,3933,North America,3,February,Tuesday,4
+USA,25,5,12,Dec-Feb,Friends,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,8,January,Thursday,5
+Germany,1,0,1,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,MnM,5,1282,Europe,0,November,Wednesday,2
+Finland,18,13,25,Jun-Aug,Solo,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,Europe,9,August,Saturday,5
+Costa Rica,15,9,3,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,North America,2,November,Monday,5
+Canada,7,5,45,Mar-May,Families,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,North America,10,April,Monday,4
+USA,14,7,6,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,2,March,Friday,5
+USA,2,0,1,Jun-Aug,Couples,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,0,June,Wednesday,5
+India,12,11,9,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Mars forever,4,826,Asia,6,July,Monday,4
+USA,56,16,54,Mar-May,Business,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,9,April,Tuesday,4
+UK,48,21,19,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,Europe,4,August,Friday,5
+Canada,3,3,2,Jun-Aug,Business,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,0,August,Wednesday,3
+USA,113,38,27,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,North America,1,March,Tuesday,4
+UK,19,5,5,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,Europe,3,May,Monday,5
+Norway,6,6,7,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,4th planet,5,2959,Europe,7,September,Tuesday,5
+Ireland,47,6,27,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,Europe,5,October,Monday,4
+India,69,58,41,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,MnM,5,1282,Asia,5,January,Saturday,5
+USA,415,162,265,Sep-Nov,Business,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,North America,8,September,Sunday,4
+USA,6,4,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,North America,7,December,Thursday,5
+Mexico,22,15,25,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,North America,6,November,Monday,4
+Norway,25,10,16,Sep-Nov,Friends,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,Europe,8,October,Tuesday,5
+Belgium,39,15,31,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Europe,1,May,Sunday,3
+USA,63,15,17,Mar-May,Business,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,North America,2,March,Tuesday,4
+USA,34,12,35,Mar-May,Couples,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,North America,3,March,Tuesday,4
+USA,119,21,75,Dec-Feb,Business,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,North America,3,January,Friday,3
+USA,96,47,161,Jun-Aug,Solo,YES,YES,NO,YES,YES,YES,Mars forever,4,826,North America,11,June,Monday,4
+USA,38,22,47,Mar-May,Business,YES,YES,NO,YES,YES,YES,Mars forever,4,826,North America,4,April,Monday,4
+USA,20,8,11,Dec-Feb,Solo,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,North America,5,January,Saturday,4
+USA,95,34,46,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,North America,6,June,Sunday,5
+India,12,4,25,Mar-May,Families,YES,YES,YES,YES,YES,YES,Nasty And Naughty,4,2884,Asia,1,May,Friday,3
+Canada,7,4,10,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,North America,3,July,Sunday,5
+Australia,58,9,15,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Swaagyyy Mars,3,3981,Oceania,0,June,Saturday,4
+Singapore,16,10,11,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,Asia,9,December,Thursday,5
+USA,13,4,1,Dec-Feb,Couples,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,2,December,Wednesday,4
+UK,39,20,31,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,Europe,8,October,Thursday,4
+Hawaii,82,14,61,Mar-May,Families,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,1,April,Wednesday,3
+USA,27,11,5,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Nasty And Naughty,4,2884,North America,2,October,Monday,3
+USA,608,117,319,Dec-Feb,Business,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,5,February,Saturday,5
+USA,24,3,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,0,November,Sunday,5
+Canada,30,10,32,Mar-May,Couples,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,North America,2,March,Wednesday,3
+USA,108,20,22,Mar-May,Business,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,5,May,Thursday,3
+Thailand,3,3,20,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,Asia,5,January,Tuesday,1
+USA,2,0,2,Dec-Feb,Business,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,1,January,Saturday,4
+USA,22,5,13,Jun-Aug,Friends,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,North America,1,July,Thursday,3
+USA,21,13,20,Dec-Feb,Business,YES,YES,NO,NO,YES,YES,Junky Jack Mars,"3,5",732,North America,5,February,Thursday,5
+UK,11,9,6,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Nasty And Naughty,4,2884,Europe,0,September,Friday,3
+Canada,12,4,15,Dec-Feb,Couples,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,North America,11,February,Monday,5
+UK,139,20,86,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,Europe,5,May,Monday,5
+Canada,4,3,8,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,4th planet,5,2959,North America,8,December,Tuesday,2
+Hawaii,88,19,58,Sep-Nov,Friends,YES,YES,NO,NO,YES,YES,Junky Jack Mars,"3,5",732,North America,1,September,Wednesday,5
+USA,30,27,19,Sep-Nov,Solo,YES,YES,NO,YES,YES,YES,Mars forever,4,826,North America,6,September,Friday,5
+UK,11,10,17,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,Europe,3,August,Friday,5
+UK,11,3,16,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,Europe,2,October,Wednesday,2
+USA,33,11,12,Mar-May,Business,YES,YES,NO,YES,YES,YES,Mars forever,4,826,North America,4,March,Wednesday,5
+USA,60,4,31,Mar-May,Couples,YES,YES,NO,NO,YES,YES,Junky Jack Mars,"3,5",732,North America,2,April,Tuesday,4
+USA,4,4,0,Dec-Feb,Couples,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,2,February,Monday,5
+Scotland,24,10,13,Mar-May,Couples,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,Europe,5,April,Wednesday,5
+USA,3,3,8,Dec-Feb,Families,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,1,February,Saturday,2
+USA,418,32,132,Dec-Feb,Couples,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,North America,3,February,Tuesday,2
+USA,121,13,59,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,9,March,Tuesday,2
+USA,31,10,14,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,North America,5,April,Sunday,4
+Korea,77,18,48,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Hotel Mars Rover,5,3933,Asia,10,July,Saturday,4
+Brazil,31,25,35,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,South America,7,November,Sunday,3
+Canada,50,13,29,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Mars forever,4,826,North America,8,November,Thursday,4
+Australia,5,3,9,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,Oceania,2,October,Thursday,5
+USA,32,6,11,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,North America,10,January,Friday,5
+Ireland,7,5,7,Jun-Aug,Couples,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,Europe,9,June,Tuesday,4
+UK,576,43,340,Dec-Feb,Couples,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,Europe,3,January,Monday,3
+India,1,0,3,Mar-May,Families,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,Asia,0,May,Thursday,2
+Australia,11,7,17,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,MnM,5,1282,Oceania,2,October,Saturday,5
+USA,21,18,53,Jun-Aug,Couples,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,North America,11,July,Wednesday,5
+New Zeland,4,3,3,Sep-Nov,Couples,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,Oceania,3,November,Monday,1
+USA,372,78,169,Dec-Feb,Business,YES,YES,NO,NO,YES,YES,Junky Jack Mars,"3,5",732,North America,4,January,Sunday,4
+USA,116,12,43,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,4,February,Tuesday,4
+UK,18,9,10,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,4th planet,5,2959,Europe,1,September,Wednesday,5
+USA,4,3,5,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,North America,3,July,Thursday,5
+USA,32,5,11,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,Hotel Mars Rover,5,3933,North America,6,June,Sunday,4
+USA,252,55,113,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,North America,8,December,Monday,4
+Australia,21,11,13,Dec-Feb,Families,YES,YES,YES,NO,NO,YES,The great Mars desert,"3,5",787,Oceania,4,January,Sunday,5
+Netherlands,92,49,18,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,Europe,5,March,Thursday,4
+USA,19,7,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Lal rang zindabad,5,4027,North America,5,March,Wednesday,5
+USA,39,10,13,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,3,April,Wednesday,4
+Australia,92,12,27,Sep-Nov,Business,YES,NO,NO,NO,YES,YES,Red Mars,"4,5",188,Oceania,2,September,Saturday,4
+USA,4,4,1,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Helloooo Mars,"3,5",1228,North America,0,November,Wednesday,3
+USA,17,17,74,Mar-May,Couples,YES,YES,NO,YES,YES,YES,4th planet,5,2959,North America,10,March,Saturday,5
+USA,17,15,13,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,North America,2,June,Sunday,4
+USA,102,17,45,Mar-May,Business,YES,YES,NO,YES,YES,YES,4th planet,5,2959,North America,2,April,Monday,5
+USA,13,4,4,Dec-Feb,Friends,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,North America,5,December,Tuesday,5
+Israel,18,10,16,Dec-Feb,Business,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Asia,2,February,Thursday,3
+USA,56,7,25,Jun-Aug,Families,YES,YES,NO,NO,NO,YES,Funky Mars,3,315,North America,7,July,Sunday,3
+UK,7,3,4,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Nasty And Naughty,4,2884,Europe,5,August,Friday,4
+USA,4,4,2,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,North America,1,February,Wednesday,2
+Thailand,18,9,8,Sep-Nov,Business,YES,YES,NO,NO,YES,YES,Junky Jack Mars,"3,5",732,Asia,7,October,Monday,3
+UK,10,6,10,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Chotu Mars,5,2700,Europe,5,December,Tuesday,5
+Australia,30,12,38,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Super hot mars,4,2916,Oceania,4,June,Saturday,5
+USA,161,33,85,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Grand Red Spot,5,3348,North America,3,January,Friday,4
+USA,20,19,112,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Mars forever,4,826,North America,5,December,Tuesday,4
+UK,10,5,2,Sep-Nov,Couples,NO,YES,NO,NO,YES,YES,The great mars hotel,3,3773,Europe,7,November,Saturday,4
+Singapore,37,7,10,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Welcome to mars,5,3025,Asia,0,November,Sunday,5
+Mexico,56,14,36,Dec-Feb,Couples,YES,YES,NO,YES,YES,NO,Do u know mars?,4,3003,North America,3,December,Monday,5
+UK,130,41,61,Jun-Aug,Business,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Europe,3,June,Tuesday,4
+UK,7,5,5,Mar-May,Families,YES,YES,NO,YES,YES,YES,Red Planet,5,2034,Europe,7,April,Monday,3
+Germany,55,55,134,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Mars and Mars,3,716,Europe,5,July,Wednesday,5
+USA,41,9,111,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Hotel Mars Rover,5,3933,North America,1,February,Friday,5
+Ireland,19,9,28,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Greatest mars hotel,4,1467,Europe,3,April,Friday,5
